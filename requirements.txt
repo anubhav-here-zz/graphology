@@ -51,5 +51,5 @@ termcolor==1.1.0
 Theano==1.0.2
 thulac==0.2.0
 typing==3.6.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 word2vec==0.9.2
