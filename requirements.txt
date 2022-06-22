@@ -26,7 +26,7 @@ lda==1.0.5
 MarkupSafe==1.1.0
 matplotlib==3.0.2
 mock==2.0.0
-numpy==1.15.4
+numpy==1.22.0
 olefile==0.44
 opencv-python==3.4.5.20
 pandas==0.20.3
